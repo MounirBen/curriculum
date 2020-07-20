@@ -35,12 +35,14 @@ We're going to make a simple implementation of grade-school classic "rock paper 
 </div>
 
 ### Student Solutions
-Submit a solution with a pull request to this [file](https://github.com/TheOdinProject/curriculum/blob/master/web_development_101/javascript_basics/project_rock_paper_scissors.md) on the Javascript Curriculum github repository. See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.
+Submit a solution with a pull request to this [file]
+(https://github.com/TheOdinProject/curriculum/blob/master/web_development_101/javascript_basics/project_rock_paper_scissors.md) on the Javascript Curriculum github repository. See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.
 
 <details markdown="block">
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+-[Mounir's Solution](https://github.com/MounirBen/ROCK-PAPER-SCISSORS)-[View in Browser] (https://github.com/MounirBen/ROCK-PAPER-SCISSORS/blob/master/index.html)
 - [Niraj Rasal's Solution](https://github.com/NirajRasal/rock_paper_scissors) - [View in Brower](https://nirajrasal.github.io/rock_paper_scissors/)
 - [Aaron Hong's Solution](https://github.com/aaronjghong/RPS) - [View in Browser](https://aaronjghong.github.io/RPS/)
 - [Xtrators's Solution](https://github.com/xtrator/SCISSORS-P-S) - [View in Browser](https://xtrator.github.io/SCISSORS-P-S/)
